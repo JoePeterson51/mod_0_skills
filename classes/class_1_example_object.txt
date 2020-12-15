@@ -1,0 +1,11 @@
+house_salad
+
+sides = [soup, rolls, crackers]
+vegetarian = true
+carbs = 60
+sauce = ranch_dressing
+
+add_mashed_potatos: sides = [soup, rolls, crackers, mashed_potatos]
+add_bacon: vegetarian = false
+remove_rolls: carbs = 40
+change_sauce_to_bbq: sauce = bbq 
