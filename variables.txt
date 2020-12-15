@@ -1,0 +1,10 @@
+food = "toast"
+is_delicious = true
+food = "pizza"
+num2 = 5
+num7 = 10
+quotient = 2
+songs = ["dramamine", "oh devil", "cane shuga", "buttercup"]
+
+songs.drop(1)
+"pizza".size 
