@@ -1,0 +1,11 @@
+sprite
+
+alcoholic = false
+volume = 12
+container_types = ["beer_glass", "wine_glass", "plastic_cup", "kids_cup"]
+color = "clear"
+
+add_vodka: alcoholic = true
+take_drink: volume = 7
+use_customers_cup: ["beer_glass", "wine_glass", "plastic_cup", "kids_cup", "novelty_cup"]
+mix_with_cola: color = "brown"
