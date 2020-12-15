@@ -1,0 +1,11 @@
+main_course
+
+sides (array)
+vegetarian (boolean)
+carbs (integer)
+sauce (string)
+
+add_mashed_potatos (adds mashed potatos to sides)
+add_bacon (modify vegetarian to false)
+remove_rolls (removes 20 carbs from meal)
+change_sauce_to_bbq (modifies sauce to bbq)
