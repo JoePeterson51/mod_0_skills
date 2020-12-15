@@ -1,0 +1,11 @@
+beverages
+
+alcoholic (boolean)
+volume (integer)
+glass_types (array)
+color (string)
+
+add_vodka (modify alcoholic to true)
+take_drink (remove 5 oz)
+use_customers_cup (adds customers cup to the array)
+mix_with_cola (changes color to brown)
